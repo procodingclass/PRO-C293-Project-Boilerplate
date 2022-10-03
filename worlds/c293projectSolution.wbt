@@ -1335,5 +1335,5 @@ Robot {
       0 0 0
     ]
   }
-  controller "pro1_controller"
+  controller ""
 }
